@@ -39,4 +39,6 @@ void draw()
       cubes.get(t).startRotation();
     }
   }
+  
+  //saveFrame("######.png");
 }
